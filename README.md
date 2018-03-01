@@ -1,1 +1,3 @@
 # Statistics
+
+Studying Statistics Models
